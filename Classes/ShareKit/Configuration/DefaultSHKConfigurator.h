@@ -62,6 +62,10 @@
 - (NSString*)twitterCallbackUrl;
 - (NSNumber*)twitterUseXAuth;
 - (NSString*)twitterUsername;
+- (NSString*)sinaWeiboConsumerKey;
+- (NSString*)sinaWeiboSecret;
+- (NSString*)sinaWeiboCallbackUrl;
+- (NSNumber*)sinaWeiboUseXAuth;
 - (NSString*)evernoteHost;
 - (NSString*)evernoteConsumerKey;
 - (NSString*)evernoteSecret;

@@ -275,6 +275,18 @@
 		7ABCDBB3157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABCDBAF157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m */; };
 		7ACA93FD156D192100E7006E /* FBFrictionlessRequestSettings.h in Headers */ = {isa = PBXBuildFile; fileRef = 7ACA93FB156D192100E7006E /* FBFrictionlessRequestSettings.h */; };
 		7ACA93FE156D192100E7006E /* FBFrictionlessRequestSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ACA93FC156D192100E7006E /* FBFrictionlessRequestSettings.m */; };
+		B0AC6B3215EA0C8400DB79CC /* SHKSinaWeiboV2.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2215EA0C8400DB79CC /* SHKSinaWeiboV2.h */; };
+		B0AC6B3315EA0C8400DB79CC /* SHKSinaWeiboV2.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2215EA0C8400DB79CC /* SHKSinaWeiboV2.h */; };
+		B0AC6B3515EA0C8400DB79CC /* SHKSinaWeiboV2.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2315EA0C8400DB79CC /* SHKSinaWeiboV2.m */; };
+		B0AC6B3615EA0C8400DB79CC /* SHKSinaWeiboV2.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2315EA0C8400DB79CC /* SHKSinaWeiboV2.m */; };
+		B0AC6B3715EA0C8400DB79CC /* SHKSinaWeiboV2Form.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2415EA0C8400DB79CC /* SHKSinaWeiboV2Form.h */; };
+		B0AC6B3815EA0C8400DB79CC /* SHKSinaWeiboV2Form.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2415EA0C8400DB79CC /* SHKSinaWeiboV2Form.h */; };
+		B0AC6B3A15EA0C8400DB79CC /* SHKSinaWeiboV2Form.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2515EA0C8400DB79CC /* SHKSinaWeiboV2Form.m */; };
+		B0AC6B3B15EA0C8400DB79CC /* SHKSinaWeiboV2Form.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2515EA0C8400DB79CC /* SHKSinaWeiboV2Form.m */; };
+		B0AC6B3C15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2615EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h */; };
+		B0AC6B3D15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h in Headers */ = {isa = PBXBuildFile; fileRef = B0AC6B2615EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h */; };
+		B0AC6B3F15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2715EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m */; };
+		B0AC6B4015EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m in Sources */ = {isa = PBXBuildFile; fileRef = B0AC6B2715EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m */; };
 		C0D3077B147BDC8100E74EA3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0D3077A147BDC8100E74EA3 /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
@@ -557,6 +569,12 @@
 		AAACE01A13CCB1F500A2118F /* SHKConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKConfiguration.m; sourceTree = "<group>"; };
 		AAACE06013CCBED400A2118F /* SHKFlickr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKFlickr.h; sourceTree = "<group>"; };
 		AAACE06113CCBED400A2118F /* SHKFlickr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKFlickr.m; sourceTree = "<group>"; };
+		B0AC6B2215EA0C8400DB79CC /* SHKSinaWeiboV2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKSinaWeiboV2.h; sourceTree = "<group>"; };
+		B0AC6B2315EA0C8400DB79CC /* SHKSinaWeiboV2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKSinaWeiboV2.m; sourceTree = "<group>"; };
+		B0AC6B2415EA0C8400DB79CC /* SHKSinaWeiboV2Form.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKSinaWeiboV2Form.h; sourceTree = "<group>"; };
+		B0AC6B2515EA0C8400DB79CC /* SHKSinaWeiboV2Form.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKSinaWeiboV2Form.m; sourceTree = "<group>"; };
+		B0AC6B2615EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKSinaWeiboV2OAuthView.h; sourceTree = "<group>"; };
+		B0AC6B2715EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKSinaWeiboV2OAuthView.m; sourceTree = "<group>"; };
 		B7EFCD8A14C6B966004910F1 /* SHKDiigo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKDiigo.h; sourceTree = "<group>"; };
 		B7EFCD8B14C6B966004910F1 /* SHKDiigo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKDiigo.m; sourceTree = "<group>"; };
 		BA465F1D14CC3C5A00B52394 /* SHKPrint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKPrint.h; sourceTree = "<group>"; };
@@ -1083,6 +1101,7 @@
 		43A536C011DBE3B9004A1712 /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				B0AC6B2115EA0C8400DB79CC /* Sina Weibo V2 */,
 				7A0F91CB156B9FCE009CB40A /* Delicious */,
 				FDB495A11520349A00505A99 /* Readability */,
 				B7EFCD8914C6B966004910F1 /* Diigo */,
@@ -1341,6 +1360,19 @@
 			path = Flickr;
 			sourceTree = "<group>";
 		};
+		B0AC6B2115EA0C8400DB79CC /* Sina Weibo V2 */ = {
+			isa = PBXGroup;
+			children = (
+				B0AC6B2215EA0C8400DB79CC /* SHKSinaWeiboV2.h */,
+				B0AC6B2315EA0C8400DB79CC /* SHKSinaWeiboV2.m */,
+				B0AC6B2415EA0C8400DB79CC /* SHKSinaWeiboV2Form.h */,
+				B0AC6B2515EA0C8400DB79CC /* SHKSinaWeiboV2Form.m */,
+				B0AC6B2615EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h */,
+				B0AC6B2715EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m */,
+			);
+			path = "Sina Weibo V2";
+			sourceTree = "<group>";
+		};
 		B7EFCD8914C6B966004910F1 /* Diigo */ = {
 			isa = PBXGroup;
 			children = (
@@ -1445,6 +1477,9 @@
 				7ABCDBAA1577528B003BBFFD /* SHKFormFieldCellSwitch.h in Headers */,
 				7ABCDBB1157757D1003BBFFD /* SHKFormFieldCellOptionPicker.h in Headers */,
 				7A4CAA181577BEFA0010E6B3 /* SHKFormFieldCell_PrivateProperties.h in Headers */,
+				B0AC6B3315EA0C8400DB79CC /* SHKSinaWeiboV2.h in Headers */,
+				B0AC6B3815EA0C8400DB79CC /* SHKSinaWeiboV2Form.h in Headers */,
+				B0AC6B3D15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1464,6 +1499,9 @@
 				7ABCDBA91577528B003BBFFD /* SHKFormFieldCellSwitch.h in Headers */,
 				7ABCDBB0157757D1003BBFFD /* SHKFormFieldCellOptionPicker.h in Headers */,
 				7A4CAA171577BEFA0010E6B3 /* SHKFormFieldCell_PrivateProperties.h in Headers */,
+				B0AC6B3215EA0C8400DB79CC /* SHKSinaWeiboV2.h in Headers */,
+				B0AC6B3715EA0C8400DB79CC /* SHKSinaWeiboV2Form.h in Headers */,
+				B0AC6B3C15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1715,6 +1753,9 @@
 				7ABCDBAC1577528B003BBFFD /* SHKFormFieldCellSwitch.m in Sources */,
 				7ABCDBB3157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m in Sources */,
 				7AB8051115AC7BCC004FB430 /* GTMNSString+HTML.m in Sources */,
+				B0AC6B3615EA0C8400DB79CC /* SHKSinaWeiboV2.m in Sources */,
+				B0AC6B3B15EA0C8400DB79CC /* SHKSinaWeiboV2Form.m in Sources */,
+				B0AC6B4015EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1855,6 +1896,9 @@
 				7AB8050E15AC7A9D004FB430 /* ENCredentialStore.m in Sources */,
 				7AB8050F15AC7AAF004FB430 /* ENOAuthViewController.m in Sources */,
 				7AB8051015AC7BC9004FB430 /* GTMNSString+HTML.m in Sources */,
+				B0AC6B3515EA0C8400DB79CC /* SHKSinaWeiboV2.m in Sources */,
+				B0AC6B3A15EA0C8400DB79CC /* SHKSinaWeiboV2Form.m in Sources */,
+				B0AC6B3F15EA0C8400DB79CC /* SHKSinaWeiboV2OAuthView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
